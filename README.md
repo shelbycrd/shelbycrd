@@ -3,20 +3,13 @@
 
 <img src="assets/banner.png" alt="Shelbycrd Banner" width="100%">
 
-### `SHELBYCRD`
+### `Hello!`
 
 **Computer Science Student | Website Developer | Builder**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shelbycrd&color=78b956&style=flat-square&label=PROFILE+VISITS)
 
 </div>
-
-
-## `📡 CONNECT WITH ME`
-
-[![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd)
-
----
 
 ## `🎮 ABOUT ME`
 
@@ -28,8 +21,8 @@ A Computer Science student who loves creating things. I enjoy turning my ideas t
 and challenging myself with new stuffs. :>
 
 - Studying **Computer Science** at a university
-- `💻` Building **Web applications and software**
-- `🎮` Interested in **Modding and Minecraft**
+- Building **Web applications and software**
+- Interested in **Modding and Minecraft**
 - Im currently exploring **full-stack development**
 
 <br clear="all">
@@ -39,7 +32,6 @@ and challenging myself with new stuffs. :>
 <div align="center">
 
 
-### `TOOLS & TECHNOLOGIES`
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -49,39 +41,37 @@ and challenging myself with new stuffs. :>
 
 </div>
 
----
+<h2 align="center">FEATURED PROJECTS</h2>
 
-## `FEATURED PROJECTS`
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Queezo</h3>
+      <p>A study platform with flashcards, GWA calculator, and Pomodoro timer.</p>
+      <p><b>Python · FastAPI · SQLite</b></p>
+      <a href="https://github.com/shelbycrd/queezo">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-78B956?style=for-the-badge" alt="View Queezo">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Northpoint</h3>
+      <p>A collaborative software engineering management and tracking system.</p>
+      <p><b>JavaScript · FastAPI · Docker</b></p>
+      <a href="https://github.com/shelbycrd/cs317-swe">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-78B956?style=for-the-badge" alt="View Northpoint">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>UltraBloodMoon</h3>
+      <p>A Minecraft plugin featuring dangerous Blood Moon events and challenges.</p>
+      <p><b>Java · Plugins</b></p>
+      <a href="https://modrinth.com/plugin/ultra-blood-moon">
+        <img src="https://img.shields.io/badge/GET_ON_MODRINTH-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Get on Modrinth">
+      </a>
+    </td>
+  </tr>
+</table>
 
-### `01` 📚 Queezo
-
-**A study workspace for students.**
-
-Queezo is a personal project designed to make studying more organized, accessible, and engaging. It brings together flashcards, a GWA calculator, and a Pomodoro timer into one workspace. Built using Python, FastAPI, JavaScript, SQLite, and Docker
-
-
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/queezo)
-
-### `02` 🏢 Northpoint
-
-Northpoint is a collaborative project focused on developing an integrated management and tracking system. My involvement focuses on frontend development, UI Design, and connecting the interface with backend services.
-
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/cs317-swe)
-
-
-### `03` 🌕 UltraBloodMoon
-
-**A Minecraft plugin that transforms ordinary nights into dangerous Blood Moon events.**
-
-Experience enhanced nighttime challenges, unique events, and exciting gameplay mechanics that bring a new level of difficulty to Minecraft survival.
-
-[![Modrinth](https://img.shields.io/badge/GET_ON_MODRINTH-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/ultra-blood-moon)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/UltraBloodMoon)
-
-
----
-
-## `📊 PLAYER STATISTICS`
 
 <div align="center">
 
@@ -93,15 +83,5 @@ Experience enhanced nighttime challenges, unique events, and exciting gameplay m
 <img src="https://streak-stats.demolab.com?user=shelbycrd&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
-
----
-
-<div align="center">
-
-**`[ GAME SAVED SUCCESSFULLY ]`**
-
-*Thanks for visiting my little corner of GitHub.*
-
-**`PRESS ⭐ TO CONTINUE`**
 
 </div>
