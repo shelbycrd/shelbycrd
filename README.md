@@ -60,19 +60,24 @@ and challenging myself with new stuffs. :>
 Queezo is a personal project designed to make studying more organized, accessible, and engaging. It brings together flashcards, a GWA calculator, and a Pomodoro timer into one workspace. Built using Python, FastAPI, JavaScript, SQLite, and Docker
 
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-78b956?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/queezo)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/queezo)
 
 ### `02` 🏢 Northpoint
 
 Northpoint is a collaborative project focused on developing an integrated management and tracking system. My involvement focuses on frontend development, UI Design, and connecting the interface with backend services.
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-78b956?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/cs317-swe)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/cs317-swe)
+
 
 ### `03` 🌕 UltraBloodMoon
 
-**A Minecraft-related development project.**
+**A Minecraft plugin that transforms ordinary nights into dangerous Blood Moon events.**
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-78b956?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/UltraBloodMoon)
+Experience enhanced nighttime challenges, unique events, and exciting gameplay mechanics that bring a new level of difficulty to Minecraft survival.
+
+[![Modrinth](https://img.shields.io/badge/GET_ON_MODRINTH-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/ultra-blood-moon)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shelbycrd/UltraBloodMoon)
+
 
 ---
 
